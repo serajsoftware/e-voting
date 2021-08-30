@@ -5,7 +5,7 @@ import java.io.InputStream;
 
 /**
  *
- * @author Keshri
+ * @author Seraj Ali
  */
 public class CandidateDTO {
      private String candidateId;
