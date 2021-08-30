@@ -19,7 +19,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Keshri
+ * @author Seraj Ali
  */
 public class DeleteUserControllerServlet extends HttpServlet {
 
