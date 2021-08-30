@@ -14,7 +14,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Keshri
+ * @author Seraj Ali
  */
 public class AddVoteControllerServlet extends HttpServlet {
 
