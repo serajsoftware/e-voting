@@ -20,7 +20,7 @@ import java.util.Base64;
 
 /**
  *
- * @author Keshri
+ * @author Seraj Ali
  */
 public class CandidateDAO {
     private static PreparedStatement ps1,ps2,ps3,ps4,ps5,ps6,ps7,ps8,ps9;
