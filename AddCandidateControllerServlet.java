@@ -20,7 +20,7 @@ import org.json.JSONObject;
 
 /**
  *
- * @author Keshri
+ * @author Seraj Ali
  */
 public class AddCandidateControllerServlet extends HttpServlet {
 
