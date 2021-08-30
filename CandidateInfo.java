@@ -3,7 +3,7 @@ package evoting.dto;
 
 /**
  *
- * @author Keshri
+ * @author Seraj Ali
  */
 public class CandidateInfo {
     private String candidateId;
